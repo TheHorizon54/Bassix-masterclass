@@ -21,6 +21,9 @@ export default function Home() {
           This course includes Wonky Design by Paulls, Melodic Design by Rayur, and Banger Shi from Bassix Sonare
       </p>
     </main>
+    <head>
+       Start Now!
+    </head>
       <Footer />
     </div>
   )

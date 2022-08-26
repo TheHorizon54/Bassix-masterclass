@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Masterclass!" />
         <p className="description">
-          Including Bassix, Paul, and Rayzur <code>pages/index.js</code>
+          Including Bassix, Paul, and Rayzur
         </p>
       </main>
 
